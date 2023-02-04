@@ -5,8 +5,8 @@ pragma solidity >=0.8.16;
 // EIP-20: ERC-20 Token Standard
 // https://eips.ethereum.org/EIPS/eip-20
 //
-// This is virtue, which is essentially the clothing, you might see it as a garage door 
-// And the brand is on the virtue which you can multiply or co-name with it
+// This is virtue, which is essentially the clothing.
+// The brand is on the virtue which you can multiply or co-name with it
 // To sell it with certain amount of supply and specific price
 //
 // -----------------------------------------
